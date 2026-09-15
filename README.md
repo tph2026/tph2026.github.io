@@ -1,9 +1,9 @@
 # Repositories
 
-- Github: [https://github.com/tph2026](https://github.com/tph2026)
-- Profile: [https://github.com/tph2026/tph2026.github.io](https://github.com/tph2026/tph2026.github.io)
+- Github: [https://github.com/tph2026](https://github.com/tph2026) (user's profile)
+- Overview: [https://github.com/tph2026/tph2026.github.io](https://github.com/tph2026/tph2026.github.io) (this page)
 
 # Published Page
 
-- Profile: [https://tph2026.github.io](https://tph2026.github.io)
+- Overview: [https://tph2026.github.io](https://tph2026.github.io)
 - Portfolio 2026: [https://tph2026.github.io/portfolio-2026](https://tph2026.github.io/portfolio-2026)
